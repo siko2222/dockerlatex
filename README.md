@@ -1,2 +1,2 @@
-# dockerlatex
-A containerized latex environment
+# Docker LaTeX
+A containerized latex environment using docker
